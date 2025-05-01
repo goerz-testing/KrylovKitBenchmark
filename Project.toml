@@ -1,0 +1,9 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CpuId = "adafc99b-e345-5852-983c-f28acb93d879"
+KrylovKit = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
+ProfileCanvas = "efd6af41-a80b-495e-886c-e51b0c7d77a3"
+QuantumControl = "8a270532-f23f-47a8-83a9-b33d10cad486"
+QuantumControlTestUtils = "d3fd27c9-1dfb-4e67-b0c0-90d0d87a1e48"
+QuantumPropagators = "7bf12567-5742-4b91-a078-644e72a65fc1"
+ThreadPinning = "811555cd-349b-4f26-b7bc-1f208b848042"
